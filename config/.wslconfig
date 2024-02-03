@@ -1,0 +1,6 @@
+[wsl2]
+networkingMode = mirrored
+autoproxy = true
+memory=8GB
+[boot]
+systemd=true
